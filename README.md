@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Kasimcyln
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Kasimcyln/Kasimcyln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+i was born in şanlıurfa in july 1999
+I am from the first education of Ecole42 Software School opened in Turkey.
+In the environment of my skills and knowledge in projects,
+taking part as a representative group or example,
+Taking and giving responsibility uses an effective solution to make the best use of it.
+I advance Android Mobile.
+I want to be an engineer who can think analytically and produce solutions.
