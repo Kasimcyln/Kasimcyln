@@ -8,88 +8,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&lines=Merhaba,+ben+Kasım+Ceylan;Android+Uygulama+Geliştiricisi;Hoş+geldiniz!" alt="Typing SVG" />
 </h2>
 
-<!-- Sosyal Medya İkonları -->
-<p align="center">
-  <a href="https://linkedin.com/in/kasimceylan">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/kasimceylan">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:kasimm.ceylan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+---
 
 <!-- Kısa Tanıtım -->
 <p align="center">
-  Tutkulu ve kullanıcı odaklı mobil uygulamalar geliştirmeye odaklanan bir Android geliştiricisiyim. Kaliteli kod ve temiz mimari benim için vazgeçilmezdir.
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="developer gif" width="250" height="250"/>
 </p>
-
-<!-- Profil Görüntülenme Sayacı -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kasimcyln&label=Profil+Görüntülenme&color=brightgreen" alt="Profil Görüntülenme" />
-</p>
-
----
-
-## 🛠 **Teknolojiler ve Araçlar**
 
 <p align="center">
-  <!-- Kullanılan Teknolojiler -->
-  <img src="https://skillicons.dev/icons?i=kotlin,java,firebase,androidstudio,git,github&theme=light" alt="Technologies" />
+  <strong>Android Uygulama Geliştiricisi</strong> olarak kullanıcı odaklı mobil uygulamalar geliştirmeye odaklanıyorum. Temiz kod, performanslı çözümler ve yaratıcı tasarımlar üretmek benim için önceliklidir.
 </p>
 
 ---
 
-## 🚀 **Projelerim**
+## 🛠 **Kullandığım Teknolojiler**
 
-### 🌐 **[DOORS Uygulaması](https://github.com/kasimcyln/doors-app)**
-
-**Açıklama:** QR kodlar ve uygulama etkileşimleri aracılığıyla kapıları ve bariyerleri kontrol eden bir mobil uygulama. İkinci versiyonda MVVM ve Clean Architecture benimsendi.
-
-**Teknolojiler:**  
-`Kotlin` `Dagger Hilt` `Clean Architecture` `Firebase` `MQTT` `RESTful API'ler` `Unit Testing`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,github,figma,firebase" alt="Technologies" />
+</p>
 
 ---
 
-### 📱 **[Güneş Döviz Uygulaması](https://github.com/kasimcyln/gunes-doviz-app)**
-
-**Açıklama:** Gerçek zamanlı döviz kuru ve altın dönüşümü sağlayan, harita entegrasyonlu bir Android uygulaması.
-
-**Teknolojiler:**  
-`Jetpack Compose` `RxJava` `Retrofit` `Kotlin Flow` `RESTful API'ler`
-
----
-
-### 🚗 **[GarajApp Uygulaması](https://github.com/kasimcyln/garajapp)**
-
-**Açıklama:** Kapılar, bariyerler ve diğer donanımlar için uzaktan yönetim sağlayan, kullanıcı rolüne dayalı erişim özellikli bir uygulama.
-
-**Teknolojiler:**  
-`Kotlin` `Firebase` `Retrofit` `Scrum` `IoT`
-
----
-
-### 🕒 **[Personel Giriş/Çıkış Uygulaması](https://github.com/kasimcyln/personnel-app)**
-
-**Açıklama:** Android 5.1 tablet tabanlı, personel devamlılığını izleyen ve e-posta entegrasyonlu raporlama sağlayan bir uygulama.
-
-**Teknolojiler:**  
-`Room Database` `RxJava` `JavaMailAPI` `MVVM`
-
----
-
-### ⚙️ **[Doors Konfigürasyon Uygulaması](https://github.com/kasimcyln/doors-config-app)**
-
-**Açıklama:** Doors donanımı için 150'den fazla parametreyi yapılandıran, sorunsuz cihaz kurulumu sağlayan dahili bir araç.
-
-**Teknolojiler:**  
-`UDP Protokolü` `Dagger Hilt` `Kotlin Coroutines` `Clean Architecture`
-
----
-
-## 📈 **GitHub İstatistikleri**
+## 📊 **GitHub İstatistiklerim**
 
 <p align="center">
   <!-- GitHub Stats -->
@@ -104,6 +44,31 @@
 
 ---
 
+## 📚 **Uzmanlık Alanlarım**
+
+- **Kotlin ve Java:** Performanslı ve sürdürülebilir Android uygulamaları geliştirme.
+- **Temiz Mimari (Clean Architecture):** Kodların daha esnek ve yeniden kullanılabilir olmasını sağlamak için.
+- **MVVM:** Model-View-ViewModel ile modern ve etkin UI tasarımları.
+- **Kotlin Coroutines ve Flow:** Asenkron işlemleri yönetme.
+- **Dagger Hilt & Dependency Injection:** Modüler ve test edilebilir uygulama yapıları.
+- **Firebase Entegrasyonu:** Gerçek zamanlı veritabanı, push bildirimleri ve kimlik doğrulama.
+- **Jetpack Compose:** Daha hızlı ve modern UI tasarımları.
+
+---
+
+## 🌟 **Hakkımda**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="developer gif" width="300" />
+</p>
+
+- 🎓 **Eğitim:** Yazılım Geliştirme konusunda profesyonel eğitim aldım.
+- 📍 **Lokasyon:** Türkiye, ancak uzaktan çalışma fırsatlarına açığım.
+- 💬 **İlgi Alanlarım:** Mobil uygulama geliştirme, IoT projeleri ve yazılım mimarisi.
+- 📧 **İletişim:** [kasimm.ceylan@gmail.com](mailto:kasimm.ceylan@gmail.com)
+
+---
+
 ## 🌐 **Benimle İletişime Geçin**
 
 <p align="center">
@@ -115,9 +80,6 @@
 
 ---
 
-## 📫 **İletişim**
-
-- **E-posta:** [kasimm.ceylan@gmail.com](mailto:kasimm.ceylan@gmail.com)
-
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:7F52FF&height=150&section=footer" alt="footer" />
+</p>
