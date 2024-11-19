@@ -1,6 +1,7 @@
 <div align="center">
   <!-- Animasyonlu başlık -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=F75C7E&center=true&vCenter=true&width=500&height=50&lines=👋+Merhaba,+ben+Kasım+Ceylan;🌟+Android+Uygulama+Geliştiricisi" alt="Typing SVG" />
+---
 
   <!-- Profil Görüntüleme Sayacı -->
   <img src="https://komarev.com/ghpvc/?username=kasimcyln&label=Profil+Görüntülenme&color=brightgreen" alt="Profil Görüntülenme" />
