@@ -141,5 +141,3 @@
 
 ---
 
-**Not:** Projelerinizin görsellerini doğru şekilde görüntülemek için ilgili resim dosyalarını GitHub depolarınıza yükleyip, URL'leri güncellemeniz gerekiyor. Eğer resim dosyaları mevcut değilse, görselleri ekleyerek `README.md` dosyanızı daha da zenginleştirebilirsiniz.
-
