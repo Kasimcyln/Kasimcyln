@@ -46,7 +46,6 @@
 
 ### 🌐 **[DOORS Uygulaması](https://github.com/kasimcyln/doors-app)**
 
-<img align="right" src="https://raw.githubusercontent.com/kasimcyln/doors-app/master/screenshot.png" width="300" alt="DOORS App" />
 
 **Açıklama:** QR kodlar ve uygulama etkileşimleri aracılığıyla kapıları ve bariyerleri kontrol eden bir mobil uygulama. İkinci versiyonda MVVM ve Clean Architecture benimsendi.
 
