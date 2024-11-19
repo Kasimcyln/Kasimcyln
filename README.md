@@ -12,7 +12,7 @@
 
 <!-- Kısa Tanıtım -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="developer gif" width="250" height="250"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="developer gif" width="250" height="250"/>
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@
 ## 🌟 **Hakkımda**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="developer gif" width="300" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="developer gif" width="300" />
 </p>
 
 - 🎓 **Eğitim:** Yazılım Geliştirme konusunda profesyonel eğitim aldım.
