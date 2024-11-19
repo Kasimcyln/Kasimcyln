@@ -129,15 +129,3 @@
 </p>
 
 ---
-
-<!-- İsteğe bağlı: Aktivite grafiği ekleyebilirsiniz -->
-## 📊 **Haftalık Kodlama Aktivitesi**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-**Not:** WakaTime aktivite bölümünü kullanmak isterseniz [WakaTime](https://wakatime.com/) hesabı oluşturup gerekli adımları takip etmeniz gerekiyor.
-
-Bu geliştirmelerle `README.md` dosyanız daha görsel ve profesyonel bir görünüme kavuştu. Projelerinizin görsellerini ve bağlantılarını ekleyerek daha da zenginleştirebilirsiniz.
