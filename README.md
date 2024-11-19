@@ -46,7 +46,6 @@
 
 ### 🌐 **[DOORS Uygulaması](https://github.com/kasimcyln/doors-app)**
 
-
 **Açıklama:** QR kodlar ve uygulama etkileşimleri aracılığıyla kapıları ve bariyerleri kontrol eden bir mobil uygulama. İkinci versiyonda MVVM ve Clean Architecture benimsendi.
 
 **Teknolojiler:**  
@@ -56,8 +55,6 @@
 
 ### 📱 **[Güneş Döviz Uygulaması](https://github.com/kasimcyln/gunes-doviz-app)**
 
-<img align="right" src="https://raw.githubusercontent.com/kasimcyln/gunes-doviz-app/master/screenshot.png" width="300" alt="Güneş Döviz App" />
-
 **Açıklama:** Gerçek zamanlı döviz kuru ve altın dönüşümü sağlayan, harita entegrasyonlu bir Android uygulaması.
 
 **Teknolojiler:**  
@@ -66,8 +63,6 @@
 ---
 
 ### 🚗 **[GarajApp Uygulaması](https://github.com/kasimcyln/garajapp)**
-
-<img align="right" src="https://raw.githubusercontent.com/kasimcyln/garajapp/master/screenshot.png" width="300" alt="GarajApp" />
 
 **Açıklama:** Kapılar, bariyerler ve diğer donanımlar için uzaktan yönetim sağlayan, kullanıcı rolüne dayalı erişim özellikli bir uygulama.
 
@@ -88,8 +83,6 @@
 ---
 
 ### ⚙️ **[Doors Konfigürasyon Uygulaması](https://github.com/kasimcyln/doors-config-app)**
-
-<img align="right" src="https://raw.githubusercontent.com/kasimcyln/doors-config-app/master/screenshot.png" width="300" alt="Doors Configuration App" />
 
 **Açıklama:** Doors donanımı için 150'den fazla parametreyi yapılandıran, sorunsuz cihaz kurulumu sağlayan dahili bir araç.
 
