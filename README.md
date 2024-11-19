@@ -73,8 +73,6 @@
 
 ### 🕒 **[Personel Giriş/Çıkış Uygulaması](https://github.com/kasimcyln/personnel-app)**
 
-<img align="right" src="https://raw.githubusercontent.com/kasimcyln/personnel-app/master/screenshot.png" width="300" alt="Personel App" />
-
 **Açıklama:** Android 5.1 tablet tabanlı, personel devamlılığını izleyen ve e-posta entegrasyonlu raporlama sağlayan bir uygulama.
 
 **Teknolojiler:**  
