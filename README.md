@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:F75C7E&height=200&section=header&text=Kasım%20Ceylan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,14,10&height=200&section=header&text=Kasım%20Ceylan&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="header" />
 </p>
 
-<!-- Animasyonlu Başlık -->
+<!-- Hareketli İsim -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&lines=Merhaba,+ben+Kasım+Ceylan;Android+Uygulama+Geliştiricisi;Hoş+geldiniz!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&lines=Merhaba,+ben+Kasım+Ceylan;Android+Geliştiricisi;Kullanıcı+Odaklı+Uygulamalar!" alt="Typing SVG" />
 </h2>
 
 ---
@@ -24,7 +24,11 @@
 ## 🛠 **Kullandığım Teknolojiler**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,github,figma,firebase" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,github,figma,firebase&theme=dark" alt="Technologies" />
+</p>
+
+<p align="center">
+  <strong>🔧 Sürekli gelişen teknolojilerle kaliteli ve yenilikçi uygulamalar geliştiriyorum.</strong>
 </p>
 
 ---
@@ -32,14 +36,14 @@
 ## 📊 **GitHub İstatistiklerim**
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kasimcyln&theme=radical" alt="GitHub Profile Summary" />
+  <!-- Profil Özeti -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kasimcyln&theme=vue" alt="GitHub Profile Summary" />
   
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasimcyln&theme=radical" alt="GitHub Streak" />
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasimcyln&theme=highcontrast" alt="GitHub Streak" />
   
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasimcyln&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- En Çok Kullanılan Diller -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasimcyln&layout=compact&theme=highcontrast" alt="Top Languages" />
 </p>
 
 ---
@@ -67,6 +71,15 @@
 - 💬 **İlgi Alanlarım:** Mobil uygulama geliştirme, IoT projeleri ve yazılım mimarisi.
 - 📧 **İletişim:** [kasimm.ceylan@gmail.com](mailto:kasimm.ceylan@gmail.com)
 
+
+---
+
+## 💡 **Hedeflerim ve Motivasyonlarım**
+
+- 🌱 **Kendimi Sürekli Geliştirme:** Yeni teknolojiler öğrenmeye ve daha iyi uygulamalar geliştirmeye devam ediyorum.
+- 💬 **Paylaşım ve Topluluk:** Bildiklerimi paylaşmak ve yazılım topluluğuna katkıda bulunmak benim için önemli.
+- 🚀 **Gelecek Planlarım:** Kendi startup'ımı kurmak ve yenilikçi projeler geliştirmek istiyorum.
+
 ---
 
 ## 🌐 **Benimle İletişime Geçin**
@@ -81,5 +94,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:7F52FF&height=150&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,8,4&height=150&section=footer&text=Teşekkürler&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="footer" />
 </p>
