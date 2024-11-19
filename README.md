@@ -37,17 +37,7 @@
 
 <p align="center">
   <!-- Kullanılan Teknolojiler -->
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dagger%20Hilt-%2300C853.svg?style=for-the-badge&logo=dagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVVM-%23013243.svg?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-%234CAF50.svg?style=for-the-badge&logo=clean%20architecture&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin%20Coroutines-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Retrofit-%23EE9A00.svg?style=for-the-badge&logo=retrofit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Room%20Database-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,firebase,androidstudio,git,github&theme=light" alt="Technologies" />
 </p>
 
 ---
