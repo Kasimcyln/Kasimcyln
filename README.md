@@ -1,12 +1,12 @@
-<div align="center">
-  <!-- Animasyonlu başlık -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=F75C7E&center=true&vCenter=true&width=500&height=50&lines=👋+Merhaba,+ben+Kasım+Ceylan;🌟+Android+Uygulama+Geliştiricisi" alt="Typing SVG" />
----
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:F75C7E&height=200&section=header&text=Kasım%20Ceylan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
+</p>
 
-  <!-- Profil Görüntüleme Sayacı -->
-  <img src="https://komarev.com/ghpvc/?username=kasimcyln&label=Profil+Görüntülenme&color=brightgreen" alt="Profil Görüntülenme" />
-</div>
-
+<!-- Animasyonlu Başlık -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&lines=Merhaba,+ben+Kasım+Ceylan;Android+Uygulama+Geliştiricisi;Hoş+geldiniz!" alt="Typing SVG" />
+</h2>
 
 <!-- Sosyal Medya İkonları -->
 <p align="center">
@@ -16,7 +16,7 @@
   <a href="https://twitter.com/kasimceylan">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kasimm.ceylan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -56,7 +56,7 @@
 
 ### 🌐 **[DOORS Uygulaması](https://github.com/kasimcyln/doors-app)**
 
-<img align="right" src="https://user-images.githubusercontent.com/yourusername/doors-app/screenshot.png" width="300" alt="DOORS App" />
+<img align="right" src="https://raw.githubusercontent.com/kasimcyln/doors-app/master/screenshot.png" width="300" alt="DOORS App" />
 
 **Açıklama:** QR kodlar ve uygulama etkileşimleri aracılığıyla kapıları ve bariyerleri kontrol eden bir mobil uygulama. İkinci versiyonda MVVM ve Clean Architecture benimsendi.
 
@@ -67,7 +67,7 @@
 
 ### 📱 **[Güneş Döviz Uygulaması](https://github.com/kasimcyln/gunes-doviz-app)**
 
-<img align="right" src="https://user-images.githubusercontent.com/yourusername/gunes-doviz-app/screenshot.png" width="300" alt="Güneş Döviz App" />
+<img align="right" src="https://raw.githubusercontent.com/kasimcyln/gunes-doviz-app/master/screenshot.png" width="300" alt="Güneş Döviz App" />
 
 **Açıklama:** Gerçek zamanlı döviz kuru ve altın dönüşümü sağlayan, harita entegrasyonlu bir Android uygulaması.
 
@@ -78,7 +78,7 @@
 
 ### 🚗 **[GarajApp Uygulaması](https://github.com/kasimcyln/garajapp)**
 
-<img align="right" src="https://user-images.githubusercontent.com/yourusername/garajapp/screenshot.png" width="300" alt="GarajApp" />
+<img align="right" src="https://raw.githubusercontent.com/kasimcyln/garajapp/master/screenshot.png" width="300" alt="GarajApp" />
 
 **Açıklama:** Kapılar, bariyerler ve diğer donanımlar için uzaktan yönetim sağlayan, kullanıcı rolüne dayalı erişim özellikli bir uygulama.
 
@@ -89,7 +89,7 @@
 
 ### 🕒 **[Personel Giriş/Çıkış Uygulaması](https://github.com/kasimcyln/personnel-app)**
 
-<img align="right" src="https://user-images.githubusercontent.com/yourusername/personnel-app/screenshot.png" width="300" alt="Personel App" />
+<img align="right" src="https://raw.githubusercontent.com/kasimcyln/personnel-app/master/screenshot.png" width="300" alt="Personel App" />
 
 **Açıklama:** Android 5.1 tablet tabanlı, personel devamlılığını izleyen ve e-posta entegrasyonlu raporlama sağlayan bir uygulama.
 
@@ -100,7 +100,7 @@
 
 ### ⚙️ **[Doors Konfigürasyon Uygulaması](https://github.com/kasimcyln/doors-config-app)**
 
-<img align="right" src="https://user-images.githubusercontent.com/yourusername/doors-config-app/screenshot.png" width="300" alt="Doors Configuration App" />
+<img align="right" src="https://raw.githubusercontent.com/kasimcyln/doors-config-app/master/screenshot.png" width="300" alt="Doors Configuration App" />
 
 **Açıklama:** Doors donanımı için 150'den fazla parametreyi yapılandıran, sorunsuz cihaz kurulumu sağlayan dahili bir araç.
 
@@ -129,7 +129,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/kasimceylan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/kasimceylan"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:kasimm.ceylan@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://medium.com/@kasimceylan"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
@@ -138,6 +138,8 @@
 ## 📫 **İletişim**
 
 - **E-posta:** [kasimm.ceylan@gmail.com](mailto:kasimm.ceylan@gmail.com)
+
 ---
 
+**Not:** Projelerinizin görsellerini doğru şekilde görüntülemek için ilgili resim dosyalarını GitHub depolarınıza yükleyip, URL'leri güncellemeniz gerekiyor. Eğer resim dosyaları mevcut değilse, görselleri ekleyerek `README.md` dosyanızı daha da zenginleştirebilirsiniz.
 
