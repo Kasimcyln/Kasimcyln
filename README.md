@@ -6,10 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=kasimcyln&label=Profil+Görüntülenme&color=brightgreen" alt="Profil Görüntülenme" />
 </div>
 
-<!-- Animasyonlu Başlık -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&lines=Merhaba,+ben+Kasım+Ceylan;Android+Uygulama+Geliştiricisi" alt="Typing SVG" />
-</h1>
 
 <!-- Sosyal Medya İkonları -->
 <p align="center">
