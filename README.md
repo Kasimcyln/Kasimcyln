@@ -1,131 +1,144 @@
-<div align="center">
-  <!-- Animasyonlu başlık -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=F75C7E&center=true&vCenter=true&width=500&height=50&lines=👋+Merhaba,+ben+Kasım+Ceylan;🌟+Android+Uygulama+Geliştiricisi" alt="Typing SVG" />
+<!-- Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/yourusername/yourrepo/banner.png" alt="Banner" />
+</p>
 
-  <!-- Profil Görüntüleme Sayacı -->
+<!-- Animasyonlu Başlık -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&lines=Merhaba,+ben+Kasım+Ceylan;Android+Uygulama+Geliştiricisi" alt="Typing SVG" />
+</h1>
+
+<!-- Sosyal Medya İkonları -->
+<p align="center">
+  <a href="https://linkedin.com/in/kasimceylan">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/kasimceylan">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<!-- Kısa Tanıtım -->
+<p align="center">
+  Tutkulu ve kullanıcı odaklı mobil uygulamalar geliştirmeye odaklanan bir Android geliştiricisiyim. Kaliteli kod ve temiz mimari benim için vazgeçilmezdir.
+</p>
+
+<!-- Profil Görüntülenme Sayacı -->
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kasimcyln&label=Profil+Görüntülenme&color=brightgreen" alt="Profil Görüntülenme" />
-</div>
+</p>
 
 ---
 
-## 🛠 **Teknolojiler & Araçlar**
+## 🛠 **Teknolojiler ve Araçlar**
 
 <p align="center">
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  </a>
-  <a href="https://dagger.dev/hilt/" target="_blank">
-    <img src="https://img.shields.io/badge/-Dagger%20Hilt-00C853?style=for-the-badge&logo=dagger&logoColor=white" alt="Dagger Hilt" />
-  </a>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank">
-    <img src="https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose" />
-  </a>
-  <a href="https://developer.android.com/jetpack/guide" target="_blank">
-    <img src="https://img.shields.io/badge/-MVVM-013243?style=for-the-badge&logo=android&logoColor=white" alt="MVVM" />
-  </a>
-  <a href="https://www.raywenderlich.com/books/android-clean-architecture" target="_blank">
-    <img src="https://img.shields.io/badge/-Clean%20Architecture-4CAF50?style=for-the-badge&logo=clean&logoColor=white" alt="Clean Architecture" />
-  </a>
-  <a href="https://kotlinlang.org/docs/coroutines-overview.html" target="_blank">
-    <img src="https://img.shields.io/badge/-Kotlin%20Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Coroutines" />
-  </a>
-  <a href="https://square.github.io/retrofit/" target="_blank">
-    <img src="https://img.shields.io/badge/-Retrofit-EE9A00?style=for-the-badge&logo=android&logoColor=white" alt="Retrofit" />
-  </a>
-  <a href="https://developer.android.com/training/data-storage/room" target="_blank">
-    <img src="https://img.shields.io/badge/-Room%20Database-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Room Database" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
+  <!-- Kullanılan Teknolojiler -->
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dagger%20Hilt-%2300C853.svg?style=for-the-badge&logo=dagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM-%23013243.svg?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-%234CAF50.svg?style=for-the-badge&logo=clean%20architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin%20Coroutines-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Retrofit-%23EE9A00.svg?style=for-the-badge&logo=retrofit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room%20Database-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 **Projeler**
+## 🚀 **Projelerim**
 
-### **1. DOORS Uygulaması**
-<p>
-  <img align="right" src="https://github.com/kasimcyln/doors-app/blob/master/screenshots/doors_app.png" width="250" alt="DOORS App" />
-  
-  **Açıklama:** QR kodlar ve uygulama etkileşimleri aracılığıyla kapıları ve bariyerleri kontrol eden bir mobil uygulama. İkinci versiyonda MVVM ve Clean Architecture benimsendi.
-  
-  **Teknolojiler:** Kotlin · Dagger Hilt · Clean Architecture · Firebase · MQTT · RESTful API'ler · Birim Testleri
-</p>
+### 🌐 **[DOORS Uygulaması](https://github.com/kasimcyln/doors-app)**
 
----
+<img align="right" src="https://user-images.githubusercontent.com/yourusername/doors-app/screenshot.png" width="300" alt="DOORS App" />
 
-### **2. Güneş Döviz Uygulaması**
-<p>
-  <img align="right" src="https://github.com/kasimcyln/gunes-doviz-app/blob/master/screenshots/gunes_doviz.png" width="250" alt="Güneş Döviz App" />
-  
-  **Açıklama:** Gerçek zamanlı döviz kuru ve altın dönüşümü sağlayan, harita entegrasyonlu bir Android uygulaması.
-  
-  **Teknolojiler:** Jetpack Compose · RxJava · Retrofit · Kotlin Flow · RESTful API'ler
-</p>
+**Açıklama:** QR kodlar ve uygulama etkileşimleri aracılığıyla kapıları ve bariyerleri kontrol eden bir mobil uygulama. İkinci versiyonda MVVM ve Clean Architecture benimsendi.
+
+**Teknolojiler:**  
+`Kotlin` `Dagger Hilt` `Clean Architecture` `Firebase` `MQTT` `RESTful API'ler` `Unit Testing`
 
 ---
 
-### **3. GarajApp Uygulaması**
-<p>
-  <img align="right" src="https://github.com/kasimcyln/garajapp/blob/master/screenshots/garaj_app.png" width="250" alt="GarajApp" />
-  
-  **Açıklama:** Kapılar, bariyerler ve diğer donanımlar için uzaktan yönetim sağlayan, kullanıcı rolüne dayalı erişim özellikli bir uygulama.
-  
-  **Teknolojiler:** Kotlin · Firebase · Retrofit · Scrum · IoT
-</p>
+### 📱 **[Güneş Döviz Uygulaması](https://github.com/kasimcyln/gunes-doviz-app)**
+
+<img align="right" src="https://user-images.githubusercontent.com/yourusername/gunes-doviz-app/screenshot.png" width="300" alt="Güneş Döviz App" />
+
+**Açıklama:** Gerçek zamanlı döviz kuru ve altın dönüşümü sağlayan, harita entegrasyonlu bir Android uygulaması.
+
+**Teknolojiler:**  
+`Jetpack Compose` `RxJava` `Retrofit` `Kotlin Flow` `RESTful API'ler`
 
 ---
 
-### **4. Personel Giriş/Çıkış Uygulaması**
-<p>
-  <img align="right" src="https://github.com/kasimcyln/personnel-app/blob/master/screenshots/personnel_app.png" width="250" alt="Personel App" />
-  
-  **Açıklama:** Android 5.1 tablet tabanlı, personel devamlılığını izleyen ve e-posta entegrasyonlu raporlama sağlayan bir uygulama.
-  
-  **Teknolojiler:** Room Database · RxJava · JavaMailAPI · MVVM
-</p>
+### 🚗 **[GarajApp Uygulaması](https://github.com/kasimcyln/garajapp)**
+
+<img align="right" src="https://user-images.githubusercontent.com/yourusername/garajapp/screenshot.png" width="300" alt="GarajApp" />
+
+**Açıklama:** Kapılar, bariyerler ve diğer donanımlar için uzaktan yönetim sağlayan, kullanıcı rolüne dayalı erişim özellikli bir uygulama.
+
+**Teknolojiler:**  
+`Kotlin` `Firebase` `Retrofit` `Scrum` `IoT`
 
 ---
 
-### **5. Doors Konfigürasyon Uygulaması**
-<p>
-  <img align="right" src="https://github.com/kasimcyln/doors-config-app/blob/master/screenshots/doors_config.png" width="250" alt="Doors Configuration App" />
-  
-  **Açıklama:** Doors donanımı için 150'den fazla parametreyi yapılandıran, sorunsuz cihaz kurulumu sağlayan dahili bir araç.
-  
-  **Teknolojiler:** UDP Protokolü · Dagger Hilt · Kotlin Coroutines · Clean Architecture
-</p>
+### 🕒 **[Personel Giriş/Çıkış Uygulaması](https://github.com/kasimcyln/personnel-app)**
+
+<img align="right" src="https://user-images.githubusercontent.com/yourusername/personnel-app/screenshot.png" width="300" alt="Personel App" />
+
+**Açıklama:** Android 5.1 tablet tabanlı, personel devamlılığını izleyen ve e-posta entegrasyonlu raporlama sağlayan bir uygulama.
+
+**Teknolojiler:**  
+`Room Database` `RxJava` `JavaMailAPI` `MVVM`
+
+---
+
+### ⚙️ **[Doors Konfigürasyon Uygulaması](https://github.com/kasimcyln/doors-config-app)**
+
+<img align="right" src="https://user-images.githubusercontent.com/yourusername/doors-config-app/screenshot.png" width="300" alt="Doors Configuration App" />
+
+**Açıklama:** Doors donanımı için 150'den fazla parametreyi yapılandıran, sorunsuz cihaz kurulumu sağlayan dahili bir araç.
+
+**Teknolojiler:**  
+`UDP Protokolü` `Dagger Hilt` `Kotlin Coroutines` `Clean Architecture`
 
 ---
 
 ## 📈 **GitHub İstatistikleri**
 
-<div align="center">
-  <!-- GitHub İstatistikleri -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kasimcyln&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kasimcyln&theme=radical" alt="GitHub Profile Summary" />
   
-  <!-- GitHub Serisi -->
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasimcyln&theme=radical" alt="GitHub Streak" />
   
-  <!-- En Çok Kullanılan Diller -->
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasimcyln&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+</p>
 
 ---
 
 ## 🌐 **Benimle İletişime Geçin**
 
 <p align="center">
-  <a href="https://github.com/kasimcyln"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/kasimceylan"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/kasimceylan"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kasimceylan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/kasimceylan"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://medium.com/@kasimceylan"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
+
+## 📫 **İletişim**
+
+- **E-posta:** [kasimm.ceylan@gmail.com](mailto:kasimm.ceylan@gmail.com)
+- 
+---
+
+
