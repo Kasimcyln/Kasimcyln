@@ -1,23 +1,26 @@
-<!-- Banner -->
+<!-- Hareketli Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:F75C7E&height=200&section=header&text=Kasım%20Ceylan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
+  <img src="https://raw.githubusercontent.com/kasimcyln/kasimcyln/master/assets/header.gif" alt="Banner" />
 </p>
 
-<!-- Animasyonlu Başlık -->
+<!-- Animasyonlu Başlık ve Tanıtım -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&lines=Merhaba,+ben+Kasım+Ceylan;Android+Uygulama+Geliştiricisi;Hoş+geldiniz!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&lines=Merhaba,+ben+Kasım+Ceylan;Android+Uygulama+Geliştiricisi;Hoş+geldiniz!" alt="Typing SVG" />
 </h2>
 
-<!-- Sosyal Medya İkonları -->
+<!-- Sosyal Medya İkonları ve Bağlantılar -->
 <p align="center">
-  <a href="https://linkedin.com/in/kasimceylan">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/kasimceylan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/kasimceylan">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/kasimceylan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:kasimm.ceylan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:kasimm.ceylan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://medium.com/@kasimceylan" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=flat&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
 
@@ -37,17 +40,7 @@
 
 <p align="center">
   <!-- Kullanılan Teknolojiler -->
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dagger%20Hilt-%2300C853.svg?style=for-the-badge&logo=dagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVVM-%23013243.svg?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-%234CAF50.svg?style=for-the-badge&logo=clean%20architecture&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin%20Coroutines-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Retrofit-%23EE9A00.svg?style=for-the-badge&logo=retrofit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Room%20Database-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,firebase,androidstudio,git,github&theme=light" alt="Technologies" />
 </p>
 
 ---
@@ -56,7 +49,7 @@
 
 ### 🌐 **[DOORS Uygulaması](https://github.com/kasimcyln/doors-app)**
 
-<img align="right" src="https://raw.githubusercontent.com/kasimcyln/doors-app/master/screenshot.png" width="300" alt="DOORS App" />
+<img align="right" src="https://raw.githubusercontent.com/kasimcyln/doors-app/master/screenshots/doors_app.png" width="300" alt="DOORS App" />
 
 **Açıklama:** QR kodlar ve uygulama etkileşimleri aracılığıyla kapıları ve bariyerleri kontrol eden bir mobil uygulama. İkinci versiyonda MVVM ve Clean Architecture benimsendi.
 
@@ -67,7 +60,7 @@
 
 ### 📱 **[Güneş Döviz Uygulaması](https://github.com/kasimcyln/gunes-doviz-app)**
 
-<img align="right" src="https://raw.githubusercontent.com/kasimcyln/gunes-doviz-app/master/screenshot.png" width="300" alt="Güneş Döviz App" />
+<img align="right" src="https://raw.githubusercontent.com/kasimcyln/gunes-doviz-app/master/screenshots/gunes_doviz_app.png" width="300" alt="Güneş Döviz App" />
 
 **Açıklama:** Gerçek zamanlı döviz kuru ve altın dönüşümü sağlayan, harita entegrasyonlu bir Android uygulaması.
 
@@ -78,7 +71,7 @@
 
 ### 🚗 **[GarajApp Uygulaması](https://github.com/kasimcyln/garajapp)**
 
-<img align="right" src="https://raw.githubusercontent.com/kasimcyln/garajapp/master/screenshot.png" width="300" alt="GarajApp" />
+<img align="right" src="https://raw.githubusercontent.com/kasimcyln/garajapp/master/screenshots/garaj_app.png" width="300" alt="GarajApp" />
 
 **Açıklama:** Kapılar, bariyerler ve diğer donanımlar için uzaktan yönetim sağlayan, kullanıcı rolüne dayalı erişim özellikli bir uygulama.
 
@@ -89,7 +82,7 @@
 
 ### 🕒 **[Personel Giriş/Çıkış Uygulaması](https://github.com/kasimcyln/personnel-app)**
 
-<img align="right" src="https://raw.githubusercontent.com/kasimcyln/personnel-app/master/screenshot.png" width="300" alt="Personel App" />
+<img align="right" src="https://raw.githubusercontent.com/kasimcyln/personnel-app/master/screenshots/personnel_app.png" width="300" alt="Personel App" />
 
 **Açıklama:** Android 5.1 tablet tabanlı, personel devamlılığını izleyen ve e-posta entegrasyonlu raporlama sağlayan bir uygulama.
 
@@ -100,7 +93,7 @@
 
 ### ⚙️ **[Doors Konfigürasyon Uygulaması](https://github.com/kasimcyln/doors-config-app)**
 
-<img align="right" src="https://raw.githubusercontent.com/kasimcyln/doors-config-app/master/screenshot.png" width="300" alt="Doors Configuration App" />
+<img align="right" src="https://raw.githubusercontent.com/kasimcyln/doors-config-app/master/screenshots/doors_config_app.png" width="300" alt="Doors Configuration App" />
 
 **Açıklama:** Doors donanımı için 150'den fazla parametreyi yapılandıran, sorunsuz cihaz kurulumu sağlayan dahili bir araç.
 
@@ -113,24 +106,43 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kasimcyln&theme=radical" alt="GitHub Profile Summary" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=kasimcyln&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasimcyln&theme=radical" alt="GitHub Streak" />
-  
+</p>
+
+<p align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasimcyln&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
+## 🏆 **GitHub Ödülleri**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kasimcyln&theme=algolia&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 💻 **Haftalık Kodlama Aktivitesi**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 🌐 **Benimle İletişime Geçin**
 
 <p align="center">
-  <a href="https://linkedin.com/in/kasimceylan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/kasimceylan"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:kasimm.ceylan@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://medium.com/@kasimceylan"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kasimceylan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/kasimceylan" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:kasimm.ceylan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://medium.com/@kasimceylan" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=flat&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
@@ -138,6 +150,28 @@
 ## 📫 **İletişim**
 
 - **E-posta:** [kasimm.ceylan@gmail.com](mailto:kasimm.ceylan@gmail.com)
+- **Web Sitesi:** [www.kasimceylan.com](https://www.kasimceylan.com)
 
 ---
 
+## 🎨 **Özel Tasarım Detayları**
+
+- **Hareketli Banner:** Kişisel logonuzu veya ilgi çekici bir görseli içeren hareketli bir banner ekledim.
+- **Sosyal Medya İkonları:** Düz (flat) tasarım kullanarak daha modern bir görünüm sağladım.
+- **Teknoloji İkonları:** [Skillicons.dev](https://skillicons.dev/) kullanarak teknolojilerin ikonlarını görsel olarak ekledim.
+- **GitHub Ödülleri:** [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) ile başarılarınızı sergiledim.
+- **Kodlama Aktivitesi:** [WakaTime](https://wakatime.com/) entegrasyonu ile haftalık kodlama aktivitenizi gösterdim.
+- **Renk Uyumları:** Tutarlı bir renk paleti kullanarak profesyonel bir görünüm elde ettim.
+
+---
+
+**Notlar:**
+
+- **Resimler ve Görseller:** Projelerinizin ekran görüntülerini `screenshots` klasörüne ekleyerek görselleri güncelleyebilirsiniz.
+- **WakaTime Aktivitesi:** Kodlama aktivitenizi göstermek için WakaTime hesabı oluşturup GitHub profilinize entegre etmeniz gerekiyor.
+- **Özel Domain:** Web siteniz varsa iletişim bölümüne ekledim; yoksa bu satırı kaldırabilirsiniz.
+- **Kişisel Dokunuşlar:** Kendi logonuzu, renk paletinizi ve tasarım tercihlerinizi ekleyerek daha da özelleştirebilirsiniz.
+
+---
+
+Bu güncellemelerle `README.md` dosyanız görsellik açısından daha da zenginleşti ve profesyonel bir görünüm kazandı. Kendi kişisel tarzınızı ve markanızı yansıtacak şekilde daha fazla özelleştirme yapabilirsiniz.
